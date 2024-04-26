@@ -1,0 +1,2 @@
+epoch, train loss, train strict eval, train soft eval, backward time, validate loss, validate strict eval, validate soft eval, test loss, test strict eval, test soft eval,
+-1, 0.0, 90.74038454328264, 85.27420152936664, 0.0, 0.0, 87.33535064697266, 77.22721862792969, 0.0, 94.31384460449219, 91.38533782958984
